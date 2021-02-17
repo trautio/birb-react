@@ -1,0 +1,8 @@
+{
+  "short_name": "birb app",
+  "name": "birb app for searching birbs",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
