@@ -4,6 +4,9 @@ function Search() {
   const colors = [
     {hex: "#ffffff", name:"White", type:"light"},
     {hex: "#000000", name:"Black", type:"dark"},
+    {hex: "#0000ff", name:"Blue", type:"dark"},
+    {hex: "#ff0000", name:"Red", type:"light"},
+    {hex: "#ffff00", name:"Yellow", type:"light"},
   ]
 
     return (
